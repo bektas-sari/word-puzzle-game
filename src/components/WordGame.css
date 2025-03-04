@@ -1,0 +1,100 @@
+/* WordGame.css */
+.word-game-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .word-game-container {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+  }
+  
+  .word-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .word-mask {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .word-input {
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .word-input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .check-button {
+    background-color: #007bff;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.3s;
+    width: 100%;
+  }
+  
+  .check-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .check-button.wrong {
+    animation: shake 0.3s;
+  }
+  
+  @keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+  }
+  
+  .message {
+    font-size: 20px;
+    margin-top: 15px;
+  }
+  
+  .message.success {
+    color: #28a745;
+    font-weight: bold;
+    animation: fadeIn 0.5s;
+  }
+  
+  .message.error {
+    color: #dc3545;
+    font-weight: bold;
+    animation: fadeIn 0.5s;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+    footer {
+    font-size: 12px;
+}  
