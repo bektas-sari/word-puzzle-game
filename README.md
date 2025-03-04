@@ -1,7 +1,5 @@
 # 🧩 Word Puzzle Game
 
-![Word Puzzle Game](https://via.placeholder.com/1000x500?text=Word+Puzzle+Game)
-
 ## 🚀 About the Project
 **Word Puzzle Game** is an interactive and fun word guessing game where players complete missing letters in randomly generated words. The game provides a simple yet modern interface with animations and user-friendly features.
 
