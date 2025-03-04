@@ -13,9 +13,6 @@
 - 🔄 **New Word Button** – Allows users to fetch a new word easily.
 - ✅ **Automatic Letter Completion** – When the correct word is entered.
 
-## 📷 Demo Preview
-*Coming soon!*
-
 ## 🛠️ Built With
 - **React.js** – For building the user interface.
 - **JavaScript (ES6)** – Game logic and event handling.
@@ -26,7 +23,7 @@
 
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/word-puzzle-game.git
+git clone https://github.com/bektas-sari/word-puzzle-game.git
 cd word-puzzle-game
 ```
 
@@ -66,7 +63,6 @@ For any inquiries or suggestions, feel free to reach out:
 - 🔗 GitHub: [github.com/yourusername](https://github.com/bektas-sari)
 
 ---
-💡 _Happy Coding!_ 🚀
 
 
 
