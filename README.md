@@ -57,7 +57,7 @@ This project is licensed under the **MIT License** – feel free to modify and u
 
 ## 💎 Contact
 For any inquiries or suggestions, feel free to reach out:
-- ✉ Email: [your.email@example.com](mailto:your.bektas.sari@gmail.com)
+- ✉ Email: [your.email@example.com](mailto:bektas.sari@gmail.com)
 - 🔗 GitHub: [github.com/yourusername](https://github.com/bektas-sari)
 
 ---
