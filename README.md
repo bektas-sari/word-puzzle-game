@@ -57,8 +57,12 @@ This project is licensed under the **MIT License** – feel free to modify and u
 
 ## 💎 Contact
 For any inquiries or suggestions, feel free to reach out:
-- ✉ Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-- 🔗 GitHub: [github.com/bektas-sari](https://github.com/bektas-sari)
+
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 ---
 
